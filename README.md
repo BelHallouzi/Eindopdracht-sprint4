@@ -1,12 +1,12 @@
-# Javascript Periode 3 eindopdrachten
+# Javascript Periode 3 eindopdracht
 
 In deze repository ga je elke sprint een eindopdracht maken. Elke eindopdracht zit in zijn eigen branch in deze repository.
 
 Je moet er dus voorzorgen dat je altijd in de juiste branch werkt (elke sprint opnieuw).
 
-En je zorgt er voor dat je jouw werk vaak commit en pushed. 
+En je zorgt er voor dat je jouw werk vaak commit en pushed.
 
-In een aantal opdrachten vragen we je ook om een cheatsheet te bouwen, deze maak je wel in de README.md 
+In een aantal opdrachten vragen we je ook om een cheatsheet te bouwen, deze maak je wel in de README.md
 van de main-branch.
 
 ## GIT werken
