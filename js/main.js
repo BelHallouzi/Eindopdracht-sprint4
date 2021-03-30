@@ -2,7 +2,7 @@
 const myName = "Bilal";
 const studentNumber = 302562632;
 
-function alertBox() {
-    alert("Naam: " + myName + "   Studentnummer: " + studentNumber);
+function alertBox(message) {
+    alert(message);
 }
-alertBox();
+alertBox("Naam: " + myName + "   Studentnummer: " + studentNumber);

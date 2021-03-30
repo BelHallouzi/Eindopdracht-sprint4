@@ -6,7 +6,7 @@ Als we het over JavaScript hebben, typen we verkort JS.
 
 In de studentenhandleiding vind je de stories en todo's die bij deze opdrachten horen.
 
-Uiteraard als developer zorg je er ook voor dat de HTML en CSS een beetje leuk eruit ziet ;-) 
+Uiteraard als developer zorg je er ook voor dat de HTML en CSS een beetje leuk eruit ziet ;-)
 
 ## Opdrachten
 
@@ -55,9 +55,8 @@ Om een nieuwe branch aan te maken en daarnaar toe te wisselen
 
 ```git switch -c <repository>```
 
-**LET OP** Na het wisselen moet je je werk commiten en daarna pushen met een iets ander commando
+*LET OP* Na het wisselen moet je je werk commiten en daarna pushen met een iets ander commando
 
 Om een nieuwe branch voor het eerst te pushen naar de server
 
 ```git push origin <repsository>```
-
