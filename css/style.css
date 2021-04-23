@@ -76,7 +76,30 @@
     color: darkmagenta;
   }
 
+  
   /* Grid */
+
   .container-md {
-    padding: 55px;
+    padding: 52px;
+  }
+
+  /* Titel in het midden zetten */
+
+  .center_title {
+    text-align: center;
+  }
+
+  /* hr element ontzichtbaar maken */
+
+  hr{
+    clear: both;
+    visibility: hidden;
+  }
+
+  /* Plek voor resultaat */
+
+  .results {
+    position: fixed;
+    right: 400px;
+    bottom: 300px;
   }
